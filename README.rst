@@ -5,6 +5,14 @@ Regression on Order Statistics
 A basic utility to recover the mean and standard deviation of a left censored normally distributed data set.
 
 
+Requirements
+============
+
+python 2.7
+numpy 1.9.0
+scipy 0.14
+
+
 Motivation
 ==========
 
