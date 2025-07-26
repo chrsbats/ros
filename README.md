@@ -4,6 +4,7 @@
 An approximate, ROS-inspired utility to estimate the mean and standard deviation of a left-censored, approximately normal dataset.
 
 > ⚠️ This is not a full Regression on Order Statistics (ROS) implementation. It does **not** perform imputation or regression on censored values. It uses uncensored data and assumed plotting positions to estimate normal parameters via least-squares fitting.
+> ⚠️ Archived: This was a one-off tool written in 2014 for a specific project. Not maintained. 
 
 ## Why use this?
 
